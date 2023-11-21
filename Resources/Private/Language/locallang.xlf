@@ -21,7 +21,7 @@
 				<source>Titel des neuen Lernmoduls</source>
 			</trans-unit>
             <trans-unit id="form.FirstStepData.selectModel">
-				<source>Template auswählen</source>
+				<source>Template selektieren</source>
 			</trans-unit>
             <trans-unit id="form.SecondStepData.domain">
 				<source>Domain name (https://www.example.com/) - leave empty to ignore</source>
